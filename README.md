@@ -1,7 +1,7 @@
 <h2> Hello, I'm <b>iewil</b> 👋</h2>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="380">
 
-<img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="130">
+<img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="140">
 <br>
 
 [![Youtobe: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
