@@ -2,7 +2,6 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="380">
 
 <img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="140">
-<br>
 
 [![Youtobe: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
 [![Github: iewil](https://img.shields.io/github/followers/iewilmaestro?style=social)](https://github.com/iewilmaestro)
