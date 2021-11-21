@@ -10,8 +10,10 @@
 <br>
 
 ![Donation: iewil](https://img.shields.io/badge/💰-Donation-blue?style=flat-square)
+<br>
 ![BTC: iewil](https://img.shields.io/badge/BTC-18jswG2t9EZrnHju5dyiYw1yGbkcrTSgJg-blue?style=flat-square&logo=bitcoin)
-![BTC: iewil](https://img.shields.io/badge/Paypal-Purna.iera@gmail.com-blue?style=flat-square&logo=paypal)
+<br>
+![Paypal: iewil](https://img.shields.io/badge/Paypal-Purna.iera@gmail.com-blue?style=flat-square&logo=paypal)
 <br>
 
 **Languages and Tools:**<br><br>
