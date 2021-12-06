@@ -1,5 +1,5 @@
 <h2> Hello, I'm <b>iewil</b> 👋</h2>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="280">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="350">
 <img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="140">
 
 [![Youtobe: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
@@ -15,5 +15,5 @@
 ![Paypal: iewil](https://img.shields.io/badge/Paypal-Purna.iera@gmail.com-blue?style=flat-square&logo=paypal)
 <br>
 ![Dana: iewil](https://img.shields.io/badge/Dana-085819008551-blue?style=flat-square&logo=idr)
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=algolia" width="280">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=algolia" width="350">
 
