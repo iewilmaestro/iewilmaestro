@@ -20,8 +20,6 @@
 # List Jabatan
 Team-Function-Family
 
-<!-- Please sort by alphabetical order (a-z) and use romaji or english title -->
-
 Status: ✔️ = Masih Hidup, ❌ = Sensor
 
 | Nama                                                                    | Jabatan                          |       Youtube | Telegram  |STATUS  |
