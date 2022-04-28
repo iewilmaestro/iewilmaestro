@@ -24,7 +24,7 @@ Status: ✔️ = Masih Hidup, ❌ = Sensor
 
 | Nama                                                                    | Jabatan                          | Hobi                          |       Youtube | Telegram  |STATUS  |
 |--------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|-------------|------------|------------|
-| Apapie | Presiden | mancing |Ga ada | [Chat here!](https://t.me/Apapie) |    ✔️ |   
-| Kaktoji | Wakil Presiden | oprek |[Sukreb here](https://www.youtube.com/c/kakatoji) | [Chat here!](https://t.me/kaktoji) |    ✔️ |   
-| Prabu Siliwangi | Wakil Presiden | Ngomong sama Bot |[Sukreb here](https://www.youtube.com/channel/UC8uchYyo2IDDLRT0wSB1CBw) | [Chat here!](https://t.me/pr4bu_51l1w4n61_212) |    ✔️ |
+| Apapie | Presiden | Mancing |Ga ada | [Chat here!](https://t.me/Apapie) |    ✔️ |   
+| Kaktoji | Wakil Presiden | Oprek |[Sukreb here](https://www.youtube.com/c/kakatoji) | [Chat here!](https://t.me/kaktoji) |    ✔️ |   
+| Prabu Siliwangi | Wakil Presiden | Ngomong |[Sukreb here](https://www.youtube.com/channel/UC8uchYyo2IDDLRT0wSB1CBw) | [Chat here!](https://t.me/pr4bu_51l1w4n61_212) |    ✔️ |
 | Sugiono | Wakil Presiden | Ngoding |[Sukreb here](https://www.youtube.com/c/SugionoOfficial) | [Chat here!](https://t.me/SugionoOfficial) |    ✔️ | 
