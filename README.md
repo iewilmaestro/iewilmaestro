@@ -22,6 +22,6 @@
 
 Status: ✔️ = Masih Hidup, ❌ = Sensor
 
-| Nama                                                                    | Jabatan                          |       Youtube | Telegram  |STATUS  |
-|--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|------------|
-| Apapie | Presiden |[Sukreb here](https://www.youtube.com/c/kakatoji) | [Chat here!](https://t.me/Apapie) |    ✔️ |   
+| Nama                                                                    | Jabatan                          | Hobi                          |       Youtube | Telegram  |STATUS  |
+|--------------------------------------------------------------------------------------------|--------------------------------|--------------------------------|-------------|------------|------------|
+| Apapie | Presiden | mancing |[Sukreb here](https://www.youtube.com/c/kakatoji) | [Chat here!](https://t.me/Apapie) |    ✔️ |   
