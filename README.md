@@ -17,3 +17,13 @@
 ![Dana: iewil](https://img.shields.io/badge/Dana-085819008551-blue?style=flat-square&logo=idr)
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=algolia" width="350">
 
+# List Jabatan
+Team-Function-Family
+
+<!-- Please sort by alphabetical order (a-z) and use romaji or english title -->
+
+Status: ✔️ = Masih Hidup, ❌ = Sensor
+
+| Nama                                                                    | Jabatan                          |       Youtube | Telegram  |STATUS  |
+|--------------------------------------------------------------------------------------------|--------------------------------|-------------|------------|------------|
+| Kakatoji | Presiden |[Sukreb here](https://www.youtube.com/c/kakatoji) | [Chat here!](https://t.me/kakatoji) |    ✔️ |   
