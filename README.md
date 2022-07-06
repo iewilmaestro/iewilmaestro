@@ -1,6 +1,6 @@
 <h2> Hello, I'm <b>iewil</b> 👋</h2>
 <img align='left' src="https://github.com/iewilmaestro/List/blob/main/404.png" width="140">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=algolia" width="350">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=highcontrast" width="350">
 
 [![Youtobe: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
 [![Github: iewil](https://img.shields.io/github/followers/iewilmaestro?style=social)](https://github.com/iewilmaestro)
@@ -16,5 +16,5 @@
 <br>
 ![Dana: iewil](https://img.shields.io/badge/Dana-085819008551-blue?style=flat-square&logo=idr)
 <br>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=algolia" width="350">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=highcontrast" width="350">
 
