@@ -16,7 +16,10 @@
 <br>
 ![Dana: iewil](https://img.shields.io/badge/Dana-085819008551-orange?style=flat-square&logo=idr)
 <br>
+[![](https://visitcount.itsvg.in/api?id=iewilmaestro&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<br>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=iewilmaestro&show_icons=true&theme=codeSTACKr" width="350">
+
 
 <!--[tema readme stats] -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md-->
