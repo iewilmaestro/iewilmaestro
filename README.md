@@ -1,5 +1,5 @@
 <h2> Hello, I'm <b>iewil</b> 👋</h2>
-<img align='left' src="https://github.com/iewilmaestro/iewilmaestro/blob/main/icon.png" width="135">
+<img align='left' src="https://github.com/iewilmaestro/iewilmaestro/blob/main/icon.png" width="140">
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=iewilmaestro&theme=codeSTACKr" width="350">
 
 [![Youtube: iewil](https://img.shields.io/youtube/channel/subscribers/UCvBSqRaT6nsPvtl8m6GaQpg?style=social)](https://youtube.com/c/iewil)
